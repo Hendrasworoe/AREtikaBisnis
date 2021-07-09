@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 3d8906c715798594bad78b0251f147fa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Sit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: e9e420b4499498b4fae5f17835e5d576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: e2641c6f3713c084a8b53606a707de04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyewearmat
+    second: {fileID: 2100000, guid: e445277303aab504b83e12b0ac066a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: ec91d8a8b8e1af74ab0f7e029fa368b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: 86f8f15ad26d5a642a4b11bbe62766cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 1cb68791aabbe7e40b28627a605aecb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: fdafcaf98de6da94bb6c6adbce7c2d0a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Body_Diffuse
+    second: {fileID: 2800000, guid: 510e5420a3ddc164eb5e45e83fb320b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Body_Gloss
+    second: {fileID: 2800000, guid: df4be2c34527ec44ea0588706656bcb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Body_Normal
+    second: {fileID: 2800000, guid: 750c442c691424848b82cb91e917c0f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Body_Opacity
+    second: {fileID: 2800000, guid: 9cc882791b16bdf448f34c0d86f8a53c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Body_Specular
+    second: {fileID: 2800000, guid: 2393456d5bd5d1c43aa7b898926efbaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 5093f8f9b565ce1418629c2c9aad8a9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Bottom_Gloss
+    second: {fileID: 2800000, guid: 0b1e35023ad4cc6468bc7d296826aa4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Bottom_Normal
+    second: {fileID: 2800000, guid: 930383f54b173b94b8950bb770e24e15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Bottom_Opacity
+    second: {fileID: 2800000, guid: 89f7f4319808d7e42b190d5c776dfa61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Bottom_Specular
+    second: {fileID: 2800000, guid: b1843920b8791ba44b46b76b79d04572, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: 50d8aa36fe8a25c4095dadff5e040178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Eyewear_Gloss
+    second: {fileID: 2800000, guid: 6823035f32d3a2542b5a03a84a0b7cb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Eyewear_Normal
+    second: {fileID: 2800000, guid: 11cfa5afdaa194449a1f176f43a92f61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Eyewear_Opacity
+    second: {fileID: 2800000, guid: 5ab6e497ef0daf54e901114030526ca9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Eyewear_Specular
+    second: {fileID: 2800000, guid: 22883e3301406cd4c8f1f9bb3901b90c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Hair_Diffuse
+    second: {fileID: 2800000, guid: 622992985b66c624dae534f872b0b2a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Hair_Gloss
+    second: {fileID: 2800000, guid: d8b43a3134481c0469d536f4c61ec6bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Hair_Normal
+    second: {fileID: 2800000, guid: 6ac8e77927e61d64093b352b4739d714, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Hair_Opacity
+    second: {fileID: 2800000, guid: 03dab4aeb60307442afbbbf63d5f2a06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Hair_Specular
+    second: {fileID: 2800000, guid: ba44ccc294d2ce14a9fbd6b07c3e8a54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Moustache_Diffuse
+    second: {fileID: 2800000, guid: daf33a0589c90494bb130b2509228f8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Moustache_Gloss
+    second: {fileID: 2800000, guid: 8cc8415c8c5d0e64bbe80917b3397aab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Moustache_Normal
+    second: {fileID: 2800000, guid: 0fc5f3d998217794d8f6cd33610528ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Moustache_Opacity
+    second: {fileID: 2800000, guid: b9c8804e30e143d4b979b80857ac0d88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Moustache_Specular
+    second: {fileID: 2800000, guid: 15619ecb64a110e4c9a82871fd70d1b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 3251ffa801e786544957905983f960f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Shoes_Gloss
+    second: {fileID: 2800000, guid: 7ce7378c12269104d9be75aa8ec0bdd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Shoes_Normal
+    second: {fileID: 2800000, guid: b8de1e59b068fac44b7715ddc87b719e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Shoes_Opacity
+    second: {fileID: 2800000, guid: 8ed6217cd51b8fc4599701495b1d1e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Shoes_Specular
+    second: {fileID: 2800000, guid: 060da497c28719649bfca217bf9c414b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Top_Diffuse
+    second: {fileID: 2800000, guid: a26489dedeb1b3749b048b80634e0943, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Top_Gloss
+    second: {fileID: 2800000, guid: 4ca716d672170b948b5f8e6a4e7b9607, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Top_Normal
+    second: {fileID: 2800000, guid: 15af6500c88296d4896f647aa8a1bf9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Top_Opacity
+    second: {fileID: 2800000, guid: b93f85dbfd163414c8d0403ad624294b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dony_Top_Specular
+    second: {fileID: 2800000, guid: c533ba9f5d323344e8befde65d55e0ca, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sit
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

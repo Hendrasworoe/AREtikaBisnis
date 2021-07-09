@@ -1,0 +1,29 @@
+Ada beberapa hal dalam aplikasi ini.
+
+1. Untuk mengakses License Key EasyAR project dengan memasukkan sign in ke EasyAR.com
+Username: cyberethics
+Pass: Cyb3r-3thics
+
+2. Scene dalam proyek ini ada 7 scene yang di-built, yaitu:
+	a. MenuUtama: menampilkan halaman utama dan halaman pengantar
+	b. MenuPilihan: menampilkan menu dari profil perusahaan hingga refleksi
+	c. ARScene: Scene menampilkan AR nomor 1
+	d. ARScene2: Scene menampilkan AR nomor 2
+	e. BeginnigCaseFinal: menampilkan pertanyaan setelah menekan tombol 'next' di ARScene 2
+	f. ARScene3: Scene menampilkan AR nomor 3 dan nomor 4
+	g. MiddleCaseFinal: menampilkan pertanyaan setelah menekan tombol 'next' di ARScene 3
+
+3. tombol di MenuPilihan (kecuali tombol yang mengganti scene) akan menyembunyikan komponen saat ini dan memunculkan komponen selanjutnya.
+
+4. Komponen AR di scene ARSCene, ARSCene2, dan ARSCene3 terdiri atas EasyAR, RenderCamera, ImageTracker, WorldRoot, VideoCameraDevice, dan ImageTarget yang merupakan prefab dari EasyAR/Prefabs.
+	a. RenderCamera, ImageTracker, WorldRoot, dan VideoCameraDevice diatur menjadi child dari objek EasyAR.
+	b. semua prefab dari komponen EasyAR di-unpack prefab.
+	c. pengaturan objek EasyAR dengan assembel mode nya secara manual, dan kemudian memasukkan camera & Camera Root: Main Camera, Frame Source: VideoCameraDevice, RenderCamera: RenderCamera, Frame Filter: ImageTracker
+	d. pengaturan objek RenderCamera dengan target Camera: Main Camera
+	e. Image Tracker dengan simultaneous target sesuai dengan berapa target pada scene
+	f. Image Target dengan Path Type: Streaming Assets, Path: nama file, Name: nama objek yang ditampilkan, Tracker: ImageTracker
+	g. Buat folder StreamingAssets di project untuk menempatkan gambar markernya
+
+5. Objek yang ingin ditampilkan dijadikan child dari ImageTarget, dan kemudian atur di depan marker yang terlihat di scene.
+
+6. Hasil Builds aplikasi tersimpan dalam folder Builds

@@ -1,0 +1,39 @@
+menu pilihan scene:
+-canvas: menu-pemaparan-begining case-medium case-top of the case-dampak keputusan-closing case
+refleksi
+-event system: event syste(send navi... able, drag treshold 10), standalone input module
+(horizontal, vertical, submit, cancel, 10, 0.5, false)
+-audio source:button 14, button 5
+at canvas:
+-menu.perusahaan: setactive pemaparan, not setactive menu, playones... audio button14
+-menu.Bcase: setactive beginingcase, not setactive menu, playones... audio button14
+-menu.medcase & menu.topcase same as Bcase
+-pemaparan.button: script change scene to AR camera
+
+menu utama scene:
+-canvas: scaler with constant physics (96,96,100),graphic raycaster (false, none, everything), 
+button manager script.
+-garudameetingroom (position (-2242, -303, -3471), rotation(Y: 180.5), scale(XYZ: 20231.68)
+-Audio source: 15. He is the hero, button 14
+-user greetiing: (position (1035, -307.9, -36.04), rotation (-0.047, -148.372, 0.557), scale
+(XYZ: 267.4307)
+-event system same as before.
+at canvas:
+-image button: panel setactive, button setactive, audiosource1 playones... button14pack2, audiosource stop
+-panel button: script change scene to menu pilihan, audiosource1 playones... button14pack2.
+
+begining case finale scene:
+-canvas: begining case-menyetujui-tidak menyutujui
+-event system
+-audio source:button 14, button 05
+
+
+middle case finale scene:
+-canvas: begining case-menyetujui-tidak menyutujui
+-event system
+-audio source: button 05
+
+ARGaruda Scenes series:
+#1 GarudaGreeting
+#2 SceneARI
+#3 Donyscene & #4 CTScene

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: fbb3d2e5c396c154d8d64fb6db3426be
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Sit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: ef19a8f7f7be0c942a052fbeae8278cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: c009a7148a8dd8143a8c2d40086e7dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyewearmat
+    second: {fileID: 2100000, guid: 197a0397938f4ab47a080f6e0bca4ba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: b5336fa066e28454e80a4a87423aff7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 3e7050e74cc6cae4985f68b29f3c2259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 6958d399149ad754c985feff1d8b096a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Body_Diffuse
+    second: {fileID: 2800000, guid: 597bc583114a3034aa160de0b94deac5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Body_Gloss
+    second: {fileID: 2800000, guid: 8efd1d35fe8692047bfbb21c65152945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Body_Normal
+    second: {fileID: 2800000, guid: 2d15daa7661be3c499577229a9880a1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Body_Opacity
+    second: {fileID: 2800000, guid: 774f41580483dcc4fb813122ff46ee2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Body_Specular
+    second: {fileID: 2800000, guid: 994a6d30958dc7b438f0202047ec02d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 932f71a0f949e51408a0e2f47e605077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Bottom_Gloss
+    second: {fileID: 2800000, guid: 2fc5ee75319f0d04382fb008320fa31d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Bottom_Normal
+    second: {fileID: 2800000, guid: 2cf3137627f39154f944932d59196f73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Bottom_Opacity
+    second: {fileID: 2800000, guid: 83cbc0975fa56d142b80fafdeeefdfd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Bottom_Specular
+    second: {fileID: 2800000, guid: 077dd9be76848b14eaff035bb9f019b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: 6a537f8d15547364cbc2091e66156ca9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Eyewear_Gloss
+    second: {fileID: 2800000, guid: 5bb2b1fe7297cb44bae6f571a883b2de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Eyewear_Normal
+    second: {fileID: 2800000, guid: bc2d971c7e7395446af740b0127e10a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Eyewear_Opacity
+    second: {fileID: 2800000, guid: c1c3817e90f0e0b43bd67fa09c8bf029, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Eyewear_Specular
+    second: {fileID: 2800000, guid: 2452032c070ddab42a1aa3ea119ce1d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Hair_Diffuse
+    second: {fileID: 2800000, guid: 1124061a2662bbd418618dab99bc5d13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Hair_Gloss
+    second: {fileID: 2800000, guid: 849271cf4e999194690726d2c3c623f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Hair_Normal
+    second: {fileID: 2800000, guid: 674cb42cf310eef45bb0ff148a8594a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Hair_Opacity
+    second: {fileID: 2800000, guid: c8b08a95372639b4aa8182001bfae101, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Hair_Specular
+    second: {fileID: 2800000, guid: b177bfdf8087d164a9817a7b68489499, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Shoes_Diffuse
+    second: {fileID: 2800000, guid: f792d0d065fae004fa3d117d2ae8e5d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Shoes_Gloss
+    second: {fileID: 2800000, guid: 9e410e3271607d843af6252ab684f17a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Shoes_Normal
+    second: {fileID: 2800000, guid: 4f2eb8239cde2e64e867e4a7374ccc21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Shoes_Opacity
+    second: {fileID: 2800000, guid: e54ecb3758700c34fb3d40a75eb46a90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Shoes_Specular
+    second: {fileID: 2800000, guid: edae8e6b7d940d4429761f73555bfe0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Top_Diffuse
+    second: {fileID: 2800000, guid: fe4b830161fb5b34dae5a225c3f06312, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Top_Gloss
+    second: {fileID: 2800000, guid: ef9bbc22866a72c4da3cb5cac18a9614, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Top_Normal
+    second: {fileID: 2800000, guid: 56e0b9b11db8d264db502abb16fc5585, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Top_Opacity
+    second: {fileID: 2800000, guid: 24e91ea2844c0c849b1dc9465c06070d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chairaltanjung_Top_Specular
+    second: {fileID: 2800000, guid: e608083fd36123349abdea2085a05236, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sit
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

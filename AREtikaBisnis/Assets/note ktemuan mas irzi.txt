@@ -1,0 +1,5 @@
+menu bisa menampilkan tombol exit
+buku visual
+memasukkan video dalam pemaparan perusahaan
+
+koreksion answer top case.

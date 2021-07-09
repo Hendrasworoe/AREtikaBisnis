@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963aaa1ae868b0140b6456db09120440, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  LicenseKey: InNaHyZgQgM+BsRohFPnjCpTnRJVgfc+JMZyZBJBbDQmUWopElx9ZF0QZSMGQGclHlBsNAJGYS8EQUkhClNgKklRZitFHisrBkF9IxV5bD8uVit8Vh4rKg5RbCgUV3pkXWlyZAVHZyILV0AiFBAzHToeKzAGQGAnCUZ6ZF1pKyUIX2QzCVt9P0VvJWQXXmgyAV17KxQQMx1FRWAoA11+NUUeKysGUSsbSxBkKQNHZSMUEDMdRUFsKBRXJw8KU24jM0BoJQxbZyFFHis1Alx6I0lxZSkSVlsjBF1uKA5GYCkJECVkFFdnNQIcWyMEXXsiDlxuZEsQeiMJQWxoKFBjIwRGXTQGUWIvCVUrakVBbCgUVycVEkBvJwRXXTQGUWIvCVUrakVBbCgUVycVF1N7NQJheScTW2gqKlN5ZEsQeiMJQWxoKl19LwhcXTQGUWIvCVUrakVBbCgUVycCAlx6IzRCaDIOU2ULBkIrakVBbCgUVycFJnZdNAZRYi8JVSsbSxBsPhdbeyMzW2QjNEZoKxcQMygSXmVqRVt6CghRaCpFCG8nC0FsO0tJKyQSXG0qAnttNUUIUmQEXWRoMlVkaCBTezMDU0onFFcrG0sQfycVW2goE0ErfDwQaikKX3woDkZwZDoeKzYLU30gCEBkNUUIUmQGXG00CFttZDoeKysIVnwqAkErfDwQeiMJQWxoLl9oIQJmeycEWWAoABAlZBRXZzUCHEoqCEdtFAJRZiEJW30vCFwrakVBbCgUVycUAlFmNANbZyFFHis1Alx6I0l9aywCUX0SFVNqLQ5cbmRLEHojCUFsaDRHeyAGUWwSFVNqLQ5cbmRLEHojCUFsaDRCaDQUV1o2BkZgJwt/aDZFHis1Alx6I0l/ZjIOXWcSFVNqLQ5cbmRLEHojCUFsaCNXZzUCYXknE1toKipTeWRLEHojCUFsaCRzTRIVU2otDlxuZDoeKyMfQmA0AmZgKwJhfScKQit8CUdlKksQYDUrXWonCxAzIAZeeiMaHnJkBUdnIgtXQCIUEDMdRVFmK0lnbitJdWg0ElZoBQZBbGQ6HiswBkBgJwlGemRdaSslCF9kMwlbfT9FbyVkF15oMgFdeysUEDMdRVtmNUVvJWQKXW0zC1d6ZF1pKzUCXHojSXtkJwBXXTQGUWIvCVUrakVBbCgUVycFC118IjVXaikAXGAyDl1nZEsQeiMJQWxoNVdqKRVWYCgAECVkFFdnNQIcRiQNV2oyM0BoJQxbZyFFHis1Alx6I0lhfDQBU2ojM0BoJQxbZyFFHis1Alx6I0lheScVQWwVF1N9LwZeRCcXECVkFFdnNQIcRCkTW2YoM0BoJQxbZyFFHis1Alx6I0l2bCgUV1o2BkZgJwt/aDZFHis1Alx6I0lxSAIzQGglDFtnIUVvJWQCSnkvFVddLwpXWjIGX3lkXVx8KgseKy8UfmYlBl4rfAFTZTUCT1Q7OIlts9nuEmlHch3IKFB5nvNAO6vvnk9n+NdlON61oqrtaQhq4m5d4iOvOtf8ardgp6q2fplPNQDxYswbz5/m/pCrejag1zWF2d1bEHUpCLRpaEl/RluDEhnzOsy5pbGu3iWGpCdzqrVctMoeXOHJcjiUFGtMFbXU/eKz6VZZ6u+RhqLlfpGw7dQynXZDqCUfnKKZfVcGFhukWawnEbnxMVal42NJQTYmd6Ec3RN8PP75tJPLc8JekHsbTw0vHxT6LvjF9Qsz5bhVOP0+VZrYet0iFu5t11VeMSE1RIhum0dB2k+JtTuMLz2kcm/bqVQ1H55dvN2scd6sqMnQZzIJRg==
+  GizmoConfig:
+    ImageTarget:
+      EnableImageFile: 1
+      EnableTargetDataFile: 1
+      EnableTarget: 1
+    ObjectTarget:
+      Enable: 1
+  GlobalSpatialMapServiceConfig:
+    APIKey: 
+    APISecret: 
+    SparseSpatialMapAppID: 
+  GlobalCloudRecognizerServiceConfig:
+    ServerAddress: 
+    APIKey: 
+    APISecret: 
+    CloudRecognizerAppID: 
+  ARCoreSupport: 1

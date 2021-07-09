@@ -4,5 +4,30 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama.unity
+    guid: 73f5c6a9d4702da4fb79cd4ae76ef3c2
+  - enabled: 1
+    path: Assets/Scenes/MenuPilihan.unity
+    guid: 241f738d50910e2409f4bce832db5727
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 9fbf58baa2f925d49850260006b072a5
+  - enabled: 1
+    path: Assets/Scenes/BeginingCaseFinal.unity
+    guid: 0a702754eb3f718478dd64a7cb6a753b
+  - enabled: 1
+    path: Assets/Scenes/ARScene2.unity
+    guid: bcb0f14c325ebe34190ab4a44278cbf5
+  - enabled: 1
+    path: Assets/Scenes/MiddleCaseFinal.unity
+    guid: bf81aec24b5ab8f48bde8059f361f83a
+  - enabled: 1
+    path: Assets/Scenes/ARScene3.unity
+    guid: da518b723e77c72498cc3acc4236d2ea
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d940d0b3b829c5843af8f2a17fc326ed,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e1111afda146a9640990bcb3fddf0ee3,
+      type: 2}

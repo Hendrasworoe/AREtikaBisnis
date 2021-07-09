@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: c46a67d50a7f7364ca39fd744fe5c5b2
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Sit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 2a8a87d806c408e4d8c96f80a09543b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 3f984730a97633640bafcf71e6ca6df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyewearmat
+    second: {fileID: 2100000, guid: 76306e68aa20a154a9a91492405ecf21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 678306b886191c34ab6718ee1a9e8ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 5bcee39c50d953a43af6760120e82ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 865120d27764255419740139d9f53c5d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Body_Diffuse
+    second: {fileID: 2800000, guid: 0aaef3d219ebc5e4f9b1d7835dd4ce72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Body_Gloss
+    second: {fileID: 2800000, guid: 9a5b9b1c46886874a923758152662234, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Body_Normal
+    second: {fileID: 2800000, guid: 6a08ac34d9b62894fbd6e543e44693f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Body_Opacity
+    second: {fileID: 2800000, guid: 2c3cbe38d936e624fad9c35020859391, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Body_Specular
+    second: {fileID: 2800000, guid: fcc2a4952c889e3478cad756dbac1d77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 700ddbe9d0d98724998491cd5c59fc33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Bottom_Gloss
+    second: {fileID: 2800000, guid: 73adebed07e694145bb16282f30d89e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Bottom_Normal
+    second: {fileID: 2800000, guid: 7ea5962f77aff8e40a353431d72db461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Bottom_Opacity
+    second: {fileID: 2800000, guid: 151a8ec2a9143f640a4712e0aa120832, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Bottom_Specular
+    second: {fileID: 2800000, guid: ff57cde183db70441858840165eedebd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: 97caf302fd1aae1448e6e22736d20420, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Eyewear_Gloss
+    second: {fileID: 2800000, guid: bede2766bc767ba47b226ee5135c4686, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Eyewear_Normal
+    second: {fileID: 2800000, guid: d89d404b56bc31f439523625e242e217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Eyewear_Opacity
+    second: {fileID: 2800000, guid: 7d1788f51e3af0b418bc252ba2384bad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Eyewear_Specular
+    second: {fileID: 2800000, guid: 219e731db94f3064185f420393aedd5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Hair_Diffuse
+    second: {fileID: 2800000, guid: 8c0df973d8a959b49a0bedd2db0913b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Hair_Gloss
+    second: {fileID: 2800000, guid: 661b92cd9d75bf242bada3eac78915ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Hair_Normal
+    second: {fileID: 2800000, guid: 3a73b2bcfed0e7b4a8e942b59b05c445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Hair_Opacity
+    second: {fileID: 2800000, guid: 12bd3ef428f6aa749ba28349f09740ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Hair_Specular
+    second: {fileID: 2800000, guid: e9111233bc728e94cbac8dab3fd4120c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Shoes_Diffuse
+    second: {fileID: 2800000, guid: b20bd09a7a03f504396607dd92b8a088, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Shoes_Gloss
+    second: {fileID: 2800000, guid: 213a12ba931bcf545b3849cca3e9082c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Shoes_Normal
+    second: {fileID: 2800000, guid: 590f86e37eadebf42b59e6f3cac09980, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Shoes_Opacity
+    second: {fileID: 2800000, guid: dd27ae7672e379946abb43a39bbb014d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Shoes_Specular
+    second: {fileID: 2800000, guid: 3cf90b1a5aeb7fb499eab3e4f972fbb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Top_Diffuse
+    second: {fileID: 2800000, guid: 7b0620eee41217d499d6181b5a5baa66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Top_Gloss
+    second: {fileID: 2800000, guid: 89ff706598ec27a4ab7eb98a08bdcefd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Top_Normal
+    second: {fileID: 2800000, guid: dd021e4dfdfdd1543bff2623515992fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Top_Opacity
+    second: {fileID: 2800000, guid: 167f568c2ef9bf5489beca9e12eb4c31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ariaskara_Top_Specular
+    second: {fileID: 2800000, guid: 0340b036af1ffca49926e05bd1b99592, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sit
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
